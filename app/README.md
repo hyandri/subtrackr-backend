@@ -1,8 +1,4 @@
-**✅ Here's a clean, professional `README.md`** for your **SubTrackr** project. 
 
-Create a file named `README.md` in the root of your project and paste this content:
-
----
 
 ```markdown
 # SubTrackr - Subscription Management API
@@ -46,7 +42,7 @@ Built while transitioning from basic CRUD to professional backend development.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/subtrackr-backend.git
+git clone https://github.com/hyandri/subtrackr-backend.git
 cd subtrackr-backend
 ```
 
@@ -138,25 +134,8 @@ If you like this project, please give it a star! ⭐
 
 ---
 
-**Made with ❤️ while learning FastAPI**
 
-```
 
----
-
-### How to use it:
-
-1. Replace `YOUR_USERNAME` with your actual GitHub username in the clone link.
-2. Add this file to your project.
-3. Commit and push it:
-
-```bash
-git add README.md
-git commit -m "Add professional README.md"
-git push
-```
-
----
 
 Would you like me to also create a `.env.example` file content for you?
 
